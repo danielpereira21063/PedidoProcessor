@@ -1,0 +1,6 @@
+@PedidoProcessor.API_HostAddress = http://localhost:5294
+
+GET {{PedidoProcessor.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
